@@ -37,7 +37,7 @@ nav{
     text-decoration: none;
     flex-direction: row;
 }
-#Mission {
+#mission {
 height: 700px;
 width: 100%;
 display: flex;
@@ -50,7 +50,7 @@ background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4
 background-repeat: no-repeat;
 background-position: center;
 }
-#Mission h2{
+#mission h2{
     font-size: 50px;
     color:seashell;
     background-color: black;
@@ -59,7 +59,7 @@ background-position: center;
     align-items: center;
     margin: 0px;
 }
-#Mission h4{
+#mission h4{
     font-size: 30px;
     color:seashell;
     background-color: black;
